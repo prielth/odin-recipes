@@ -1,0 +1,44 @@
+
+.button {
+    color: black;
+    background-color: rgb(229, 151, 164);
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.main-header {
+    color: white;
+    background-color: gray;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ .main-header.not {
+    font-size: 20;
+}
+
+.link {
+    color: white;
+}
+ 
+.description {
+    background-color: rgb(155, 217, 238);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.in-list,
+.st-list {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}
+
+.in-list {
+    background-color: rgb(155, 217, 200);
+}
+
+.st-list {
+    background-color: rgb(155, 217, 150);
+}
+
+
