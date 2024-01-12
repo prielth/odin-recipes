@@ -7,6 +7,10 @@
     font-weight: bold;
 }
 
+.main-header.not {
+    font-size: 20;
+}
+
 .main-header {
     color: white;
     background-color: gray;
@@ -14,9 +18,6 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
- .main-header.not {
-    font-size: 20;
-}
 
 .link {
     color: white;
